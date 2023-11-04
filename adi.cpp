@@ -15,6 +15,7 @@ int32_t main()
     {
         int n;
         cin>>n;
+        cout<<"ram Ram";
         
     }
 }
